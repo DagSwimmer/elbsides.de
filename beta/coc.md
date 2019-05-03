@@ -15,7 +15,7 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 # Expected Behavior #
 
-Participate! The conference goes from good to excellent when you actively engage with the people in the community and the conference subject matter.Think about how your speech and actions may affect others around you and exercise consideration and respect.
+Participate! The conference goes from good to excellent when you actively engage with the people in the community and the conference subject matter. Think about how your speech and actions may affect others around you and exercise consideration and respect.
 
 We expect a healthy amount of scrutiny of conference subject matter. But, in cases of disagreement, attempt collaboration before conflict.
 
@@ -27,7 +27,7 @@ Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory
 
 Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
-In addition, the consumption of alcoholic beverages on the conference premises during the conference days from the starting times in the mornings to the end times in the evenings is prohibited.
+In addition, the consumption of alcoholic beverages on the conference premises during the conference day from the starting times in the mornings to the end times in the evening is prohibited.
 
 # Consequences of Unacceptable Behavior #
 
