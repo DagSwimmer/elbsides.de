@@ -5,7 +5,7 @@ permalink: /cfp
 
 ---
 
-Elbsides is a venue for security professionals, software engineers, students, researchers and visionaries. We’re targeting the North German security communities, but everyone from all the corners of the world is welcome. The conference gathers the security community in an event to share and discuss novel ideas, initiatives and advancements. Even though the conference is in Germany, the conference language is **English** and all presentations and slides are expected to be in English.
+Elbsides is a venue for security professionals, software engineers, students, researchers and visionaries. We’re targeting the North German security communities, but everyone from all corners of the world is welcome. The conference gathers the security community in an event to share and discuss novel ideas, initiatives and advancements. Even though the conference is in Germany, the conference language is **English** and all presentations and slides are expected to be in English.
 
 **The deadline for submission is June 15, 2019.**
 
@@ -27,7 +27,7 @@ We are soliciting talks on computer security topics, but are not limited to the 
 
 Once it opens, submission will need to include an abstract long enough for the programme commitee to understand what your talk is about and convince us that it will be an interesting talk. Since we will be reviewing papers without knowing your name, gender or affiliation, you can't rely on your reputation to get in. Please refrain from mentioning any of these details in the abstract.
 
-We will be actively soliciting presentations, but these will still go through the same review process and selected accordingly.
+We will be actively soliciting presentations, but these will still go through the same review process and get selected accordingly.
 
 
 
